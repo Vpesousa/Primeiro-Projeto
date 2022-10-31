@@ -24,4 +24,5 @@ Caso tenha realizado alguma alteração na pasta, devemos realizar o commit:
 - - Digitar o comando git status para verificar o status na branch;
 - - Após digitar git add *; 
 - - Após digitar git commit -m "escrever a descrição do commit";
+- - Depois digitar git push origin main para finalizar o envio do arquivo.
 
