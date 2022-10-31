@@ -1,0 +1,27 @@
+# Arquivo Criado para anotações importantes sobre o Primeiro Projeto
+
+
+Para a criação do repositório pelo GitHub Web devemos:
+
+- - Ir em Your repositories;
+- - New;
+- - Colocar o nome do repositório (Colocando uma descrição sobre o conteúdo);
+- - Marcar a opção Public para que fique visível aos demais usuários;
+- - Marcar a opção para a criação do arquivo README;
+- - Create repository;
+
+Após a criação, devemos "vincular o link do repositório do servidor GitHub para a máquina local":
+- - Após isso, clicar em Code e escolher copiar o link https ou de validação por SSH;
+- - Ir na pasta da máquina local onde desejar que seja criado o repositório;
+- - Criar a pasta com o o nome adequado ao projeto;
+- - Clicar com o botão direito do mouse e executar o Git Bash (Git Bash Here);
+- - digitar o comando git init;
+- - Depois digitar o comando git clone e após o endereço copiado anteriormente de https por exemplo (git clone https://github.com/Vpesousa/Primeiro-Projeto.git) 
+- - Após digitar o comando git status para verificar o status na branch;
+
+Caso tenha realizado alguma alteração na pasta, devemos realizar o commit:
+
+- - Digitar o comando git status para verificar o status na branch;
+- - Após digitar git add *; 
+- - Após digitar git commit -m "escrever a descrição do commit";
+
