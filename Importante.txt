@@ -13,7 +13,7 @@ Para a criação do repositório pelo GitHub Web devemos:
 Após a criação, devemos "vincular o link do repositório do servidor GitHub para a máquina local":
 - - Após isso, clicar em Code e escolher copiar o link https ou de validação por SSH;
 - - Ir na pasta da máquina local onde desejar que seja criado o repositório;
-- - Criar a pasta com o o nome adequado ao projeto;
+- - Criar a pasta com o nome adequado ao projeto;
 - - Clicar com o botão direito do mouse e executar o Git Bash (Git Bash Here);
 - - digitar o comando git init;
 - - Depois digitar o comando git clone e após o endereço copiado anteriormente de https por exemplo (git clone https://github.com/Vpesousa/Primeiro-Projeto.git) 
